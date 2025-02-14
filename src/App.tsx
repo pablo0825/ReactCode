@@ -1,10 +1,10 @@
-import Tabs from "./06-tabs/Tabs";
+import SliderComponent from "./07-sliedr/SliderComponent";
 import "./App.css";
 
 function App() {
   return (
     <>
-      <Tabs />
+      <SliderComponent />
     </>
   );
 }
